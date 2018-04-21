@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Shashi}
+S.~Sathyanarayana, A gentle introduction to backpropagation (Apr. 2014).
+
+\bibitem{Wang}
+S.~Wang, Multi-scale analysis of the water resources carrying capacity of the
+  liaohe basin based on ecological footprints, Journal of Cleaner Production
+  (2013) 158--166.
+
+\bibitem{WengaoLou}
+W.~L.~S. Liu, On assessment of sustainable development level of regional water
+  rsource using artificial neural networks.
+
+\bibitem{energy}
+Z.~Hailong, China's new energy development research, Ph.D. thesis, Jilin
+  University (2014).
+
+\bibitem{mova}
+S.~Ling, W.~K. Li, On fractionally integrated autoregressive moving-average
+  time series models with conditional heteroscedasticity, Publications of the
+  American Statistical Association.
+
+\bibitem{IPAT}
+W.~Y. C.~W. Yongjin, W.~Na, Impact of changes in population, households and
+  household size on resource consumption - based on ipat equation and
+  structural decomposition analysis model, Ecological Economy~(6) (2015)
+  23--27.
+
+\bibitem{evaluation}
+G.~Shuhua, Z.~L. Ping, Renewable energy resources evaluation system and method,
+  China Population Resources and Environment~(2) (1999) 46--50.
+
+\bibitem{AHP}
+J.~Freeman, A user's guide to principal components, Technometrics 43~(6) (1992)
+  641--641.
+
+\end{thebibliography}

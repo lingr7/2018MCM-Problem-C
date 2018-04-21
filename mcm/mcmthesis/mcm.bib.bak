@@ -1,0 +1,102 @@
+% Encoding: UTF-8
+
+@Unpublished{Shashi,
+  author = {Shashi Sathyanarayana},
+  title  = {A Gentle Introduction to Backpropagation},
+  month  = apr,
+  year   = {2014},
+}
+
+@Article{Wang,
+  author  = {Wang, Shuo},
+  title   = {Multi-scale analysis of the water resources carrying capacity of the Liaohe Basin based on ecological footprints},
+  journal = {Journal of Cleaner Production},
+  year    = {2013},
+  pages   = {158-166},
+}
+
+@Article{WengaoLou,
+  author             = {Wengao Lou\ Suiqing Liu},
+  title              = {On Assessment of Sustainable Development Level of Regional Water Rsource Using Artificial Neural Networks},
+  year               = {2003},
+  date               = {date},
+  journaltitle       = {System Sciences and Comprehensive Studies in Agriculture},
+  optaddendum        = {addendum},
+  optannotator       = {annotator},
+  optcommentator     = {commentator},
+  optdoi             = {doi},
+  opteditor          = {editor},
+  opteditora         = {editora},
+  opteditorb         = {editorb},
+  opteditorc         = {editorc},
+  opteid             = {eid},
+  opteprint          = {eprint},
+  opteprintclass     = {eprintclass},
+  opteprinttype      = {eprinttype},
+  optissn            = {issn},
+  optissue           = {issue},
+  optissuesubtitle   = {issuesubtitle},
+  optissuetitle      = {issuetitle},
+  optjournalsubtitle = {journalsubtitle},
+  optlanguage        = {language},
+  optmonth           = {month},
+  optnote            = {note},
+  optnumber          = {number},
+  optoriglanguage    = {origlanguage},
+  optpages           = {114-119},
+  optpubstate        = {pubstate},
+  optseries          = {series},
+  optsubtitle        = {subtitle},
+  opttitleaddon      = {titleaddon},
+  opturl             = {url},
+  opturldate         = {urldate},
+  optversion         = {version},
+  optvolume          = {volume},
+}
+
+@PhdThesis{energy,
+  author = {Zhang Hailong},
+  title  = {China's new energy development research},
+  school = {Jilin University},
+  year   = {2014},
+}
+
+@Article{IPAT,
+  author  = {Wang Yueju， Chen Wenjiang，Li Yongjin and Wang Na},
+  title   = {Impact of Changes in Population, Households and Household Size on Resource Consumption - Based on IPAT Equation and Structural Decomposition Analysis Model},
+  journal = {Ecological Economy},
+  year    = {2015},
+  number  = {6},
+  pages   = {23-27},
+  month   = {6},
+  file    = {:D\:/360安全浏览器下载/人口、户数和家庭规模变动对资源消耗的影响分析——基于IPAT等式和结构分解分析模型.pdf:PDF},
+}
+
+@Article{mova,
+  author  = {Ling, Shiqing and Li, W. K.},
+  title   = {On Fractionally Integrated Autoregressive Moving-Average Time Series Models With Conditional Heteroscedasticity},
+  journal = {Publications of the American Statistical Association},
+  year    = {1997},
+}
+
+@Article{evaluation,
+  author  = {Gu Shuhua and Zhou Lu Ping},
+  title   = {Renewable energy resources evaluation system and method},
+  journal = {China Population Resources and Environment},
+  year    = {1999},
+  number  = {2},
+  pages   = {46-50},
+  month   = {3},
+}
+
+@Article{AHP,
+  author  = {Freeman, Jim},
+  title   = {A User's Guide to Principal Components},
+  journal = {Technometrics},
+  year    = {1992},
+  volume  = {43},
+  number  = {6},
+  pages   = {641-641},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
